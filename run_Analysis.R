@@ -2,7 +2,6 @@ library(dplyr)
 # Script Steps:
 # -----------------------------------------------------------------------------------------------------------------------------
 # Prerequisites - Get Working Directory
-      setwd("C:/OLDLaptop/DDrive/OldFiles/Desktop/Bills to Pay/Coursera/Data Scientist/Getting and Cleanning Data/Project/UCI HAR Dataset")
       dir <- getwd();
       i   <- 1
 # -----------------------------------------------------------------------------------------------------------------------------
